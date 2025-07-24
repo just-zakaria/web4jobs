@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,product,quantity,price
+1001,C001,2023-01-12,Laptop,1,750
+1002,C002,2023-01-13,Smartphone,2,300
+1003,C001,2023-01-15,Tablet,1,200
+1004,C003,2023-01-16,Laptop,1,750
+1005,C002,2023-01-18,Headphones,3,50
