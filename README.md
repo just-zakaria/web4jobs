@@ -1,27 +1,23 @@
-# مشروع تحليل بيانات التجارة الإلكترونية - نيجيريا
-هذا المشروع كيدير تحليل لبيانات المبيعات الإلكترونية فـ نيجيريا باستعمال PostgreSQL و Python.
+# E-commerce Data Analysis Project - Nigeria
+This project analyzes e-commerce sales data in Nigeria using PostgreSQL and Python.
 
-# الأدوات المستعملة:
+# Tools Used:
 - Python (Pandas, psycopg2)
 - PostgreSQL
 - VS Code
 
-# محتوى المشروع:
-- `ecommerce_data.csv`: بيانات المبيعات
-- `load_data.py`: تحميل البيانات إلى PostgreSQL
-- `analysis.py`: تحليل بسيط للمبيعات
+# Project Content:
+- `ecommerce_data.csv`: Sales data
+- `load_data.py`: Load data into PostgreSQL
+- `analysis.py`: Simple sales analysis
 
-# المميزات الرئيسية
-- حساب إجمالي الإيرادات
-- تحديد المنتجات الأكثر مبيعاً
-- تحليل سلوك العملاء
-- تصور البيانات برسوم بيانية
+# Key Features
+- Calculating Total Revenue
+- Identifying Top-Selling Products
+- Analyzing Customer Behavior
+- Visualizing Data with Graphs
 
-# إعداد:
+# Setup:
 ```bash
 pip install pandas psycopg2
 ```
-
-
-
-
